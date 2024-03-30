@@ -1,0 +1,5 @@
+import numpy as np
+#print("np:", numpy._version_)
+n_sample = 1000
+A = np.random.rand(n_sample)
+print("A:", A)
